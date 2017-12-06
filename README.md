@@ -1,4 +1,5 @@
 Neib
+
 El proyecto trata del desarrollo de una aplicacion de ubicacion de Pequeños negocios o Pymes (Clientes) que normalmente no pueden realizar una publicidad de gran alcanze debido al gran costo que este metodo abarca, aqui tambien pueden realizar avisos en relacion a descuentos u ofertas que vayan a implementar.
 Al mismo tiempo los usuarios de Neib(Usuarios) poseen una basta variedad de resultados respecto a la busqueda inicial del servicio que necesita nuestro cliente, ellos tambien pueden comentar y puntear de como les han parecido estas micro, pequeñas y medianas empresas.
 Neib para ingresar una empresa a la aplicacion debera realizar un contrato, dentro de las clausulas se estipularan la fecha de inicio de contrato, de termino, nombre del cliente y del representante legal de Neib, restricciones dentro del manejo del software, responsabilidad legal de empresa de desarrollo, responsabilidad legal empresa contratista y Costo inicial acuerdo de publicidad.
