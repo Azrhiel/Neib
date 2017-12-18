@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "342081189391",
+    "firebase_url": "https://neib-e9760.firebaseio.com",
+    "project_id": "neib-e9760",
+    "storage_bucket": "neib-e9760.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342081189391:android:0ebbc25a035b352b",
+        "android_client_info": {
+          "package_name": "com.example.ignacio.neib5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342081189391-ep2e8mkm7nosnhociu6ecck3s1bro0oh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ignacio.neib5",
+            "certificate_hash": "8ab3f1c20f75aa4e30cc6d69687ddc6b57c97b18"
+          }
+        },
+        {
+          "client_id": "342081189391-5omplpeq3r6iv54pm33ealqp7rvai4i1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFX6YsjBPuGknCiyjg4AOm7rqHbb9oUqo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342081189391-5omplpeq3r6iv54pm33ealqp7rvai4i1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
